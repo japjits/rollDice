@@ -1,1 +1,3 @@
 # rollDice
+
+permalink: /index.html
